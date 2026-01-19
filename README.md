@@ -1,3 +1,6 @@
+this is just a dumb idea I had, there's nothing else to see
+in here yet
+
 # wunda
 1D paintlike annotation program for text
 
